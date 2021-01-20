@@ -15345,6 +15345,21 @@
                     "56.866337"
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Россия, Калужская область, Юхнов, улица Ленина, 48",
+                "worktime_weekdays": "8:00-23:00",
+                "worktime_weekends": "8:00-23:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.226131",
+                    "54.738001"
+                ]
+            }
         }
     ]
 }

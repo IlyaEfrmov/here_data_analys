@@ -1,0 +1,2015 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Кунаева, 12/1",
+                "name": "Паркомат №13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.130751,
+                    71.429307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Достык, 13",
+                "name": "Паркомат №1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.126647,
+                    71.437317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Достык, 13",
+                "name": "Паркомат №2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.12729,
+                    71.432161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Кунаева, 14",
+                "name": "Паркомат №3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.12864,
+                    71.432719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Кунаева, 14",
+                "name": "Паркомат №4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.127704,
+                    71.437832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "бульвар Нуржол, 14",
+                "name": "Паркомат №5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.127563,
+                    71.430665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Кунаева, 33",
+                "name": "Паркомат №6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.130535,
+                    71.433797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Кунаева, 12/2",
+                "name": "Паркомат №8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.1295,
+                    71.425655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Кунаева, 4",
+                "name": "Паркомат №9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.130216,
+                    71.420547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Достык, 1",
+                "name": "Паркомат №10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.129882,
+                    71.417313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Достык, 5/2",
+                "name": "Паркомат №11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.129214,
+                    71.422469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "бульвар Нуржол, 12",
+                "name": "Паркомат №12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.128235,
+                    71.428015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Достык, 9",
+                "name": "Паркомат №7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.128603,
+                    71.425735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Кунаева, 14г",
+                "name": "Паркомат №15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.129212,
+                    71.438824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Кунаева, 14/1",
+                "name": "Паркомат №14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.12996,
+                    71.434162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Достык, 13/1",
+                "name": "Паркомат №16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.125923,
+                    71.432649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Достык, 9",
+                "name": "Паркомат №17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.126829,
+                    71.426148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Достык, 13/2",
+                "name": "Паркомат №18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.125344,
+                    71.436533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Кунаева, 12",
+                "name": "Паркомат №19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.13131,
+                    71.426083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Кунаева, 35",
+                "name": "Паркомат №20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.129633,
+                    71.438947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Туран, 37",
+                "name": "Паркомат №22"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.131649,
+                    71.406865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Кабанбай батыра, 15а",
+                "name": "Паркомат №23"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.136238,
+                    71.414974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Кабанбай батыра, 19, блок D",
+                "name": "Паркомат №24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.129372,
+                    71.410175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Кабанбай батыра, 21",
+                "name": "Паркомат №25"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.128456,
+                    71.412636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Кабанбай батыра, 19/1",
+                "name": "Паркомат №26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.130303,
+                    71.414089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Кабанбай батыра, 17",
+                "name": "Паркомат №27"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.133646,
+                    71.413971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Сарайшык, 7",
+                "name": "Паркомат №29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.134773,
+                    71.427602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Сарайшык, 5",
+                "name": "Паркомат №28"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.135709,
+                    71.422049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Сарайшык, 11",
+                "name": "Паркомат №30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.133592,
+                    71.433497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Достык, 1",
+                "name": "Паркомат №31| Время работы: круглосуточно"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.128196,
+                    71.416889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Достык, 12",
+                "name": "Паркомат №32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.126125,
+                    71.427366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Сыганак, 15/1",
+                "name": "Паркомат №33"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.124506,
+                    71.422822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "мкр. Самал, 11",
+                "name": "Паркомат №41"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.154128,
+                    71.43015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Республики, 8",
+                "name": "Паркомат №42"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.160009,
+                    71.429071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Республики, 18",
+                "name": "Паркомат №43"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.162559,
+                    71.428358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Республики, 34",
+                "name": "Паркомат №44"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.169892,
+                    71.426293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Сейфуллина, 33",
+                "name": "Паркомат №45"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.171577,
+                    71.425842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Республики, 36",
+                "name": "Паркомат №46"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.174684,
+                    71.424968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Республики, 43",
+                "name": "Паркомат №47"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.173794,
+                    71.424764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Республики, 29",
+                "name": "Паркомат №48"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.167356,
+                    71.426531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Республики, 21",
+                "name": "Паркомат №49"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.163988,
+                    71.427487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Ауэзова, 29",
+                "name": "Паркомат №34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.176125,
+                    71.421695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Ауэзова, 28",
+                "name": "Паркомат №35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.174561,
+                    71.422462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Ауэзова, 19",
+                "name": "Паркомат №36"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.171887,
+                    71.422886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Ауэзова, 5",
+                "name": "Паркомат №40"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.163118,
+                    71.425225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Кенесары, 43",
+                "name": "Паркомат №39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.165308,
+                    71.424909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Абая, 37",
+                "name": "Паркомат №38"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.168258,
+                    71.423852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Сейфуллина, 34а",
+                "name": "Паркомат №37"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.16968,
+                    71.423417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Желтоксан, 32",
+                "name": "Паркомат №50"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.175724,
+                    71.413906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул.Жангельдина, 12а",
+                "name": "Паркомат №51"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.172913,
+                    71.414604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Сейфуллина, 19",
+                "name": "Паркомат №52"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.170451,
+                    71.415317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Кенесары, 14/1",
+                "name": "Паркомат №55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.162845,
+                    71.414652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Женис, 1",
+                "name": "Паркомат №54| Время работы: круглосуточно"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.159508,
+                    71.415054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Мамбетова, 16",
+                "name": "Временно не работает| Паркомат №56| Время работы: круглосуточно"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.161724,
+                    71.424178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Женис, 13",
+                "name": "Паркомат №57"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.167053,
+                    71.413354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Женис, 23",
+                "name": "Паркомат №58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.169344,
+                    71.412683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Достык, 2",
+                "name": "Паркомат №62"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.129642,
+                    71.408546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Достык, 4",
+                "name": "Паркомат №63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.128914,
+                    71.409513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Достык, 5",
+                "name": "Паркомат №64"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.12746,
+                    71.422604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Достык, 10",
+                "name": "Паркомат №65"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.126656,
+                    71.423534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Достык, 20",
+                "name": "Паркомат №66"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.124603,
+                    71.437066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Кунаева, 12/1",
+                "name": "Паркомат №67"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.129015,
+                    71.428592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Кунаева, 29",
+                "name": "Паркомат №68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.131254,
+                    71.428141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Сарайшык, 5а",
+                "name": "Паркомат №69"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.135391,
+                    71.423972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Сарайшык, 13а",
+                "name": "Паркомат №70"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.133073,
+                    71.43696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Республики, 7",
+                "name": "Паркомат №71"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.160577,
+                    71.428464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Мамбетова, 14",
+                "name": "Паркомат №72"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.161315,
+                    71.423998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Амангельды Иманова, 1",
+                "name": "Паркомат №73"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.162604,
+                    71.427072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Кенесары, 32",
+                "name": "Паркомат №74"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.163357,
+                    71.423413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Ауэзова, 11",
+                "name": "Паркомат №75"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.166935,
+                    71.424145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Бейбитшилик, 10",
+                "name": "Паркомат №76"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.167937,
+                    71.421009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Бейбитшилик, 19/1",
+                "name": "Паркомат №77"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.169245,
+                    71.420247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Бейбитшилик, 21",
+                "name": "Паркомат №78"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.170564,
+                    71.419398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Бейбитшилик, 16a",
+                "name": "Паркомат №79"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.171554,
+                    71.420007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Ауэзова, 24",
+                "name": "Паркомат №80"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.172957,
+                    71.422778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Жангельдина, 26",
+                "name": "Паркомат №81"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.173779,
+                    71.420889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Бейбитшилик, 30",
+                "name": "Паркомат №82"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.175982,
+                    71.418861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Богенбай батыра, 47",
+                "name": "Паркомат №83"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.176905,
+                    71.419772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Богенбай батыра, 44",
+                "name": "Паркомат №84"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.176198,
+                    71.416517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Желтоксан, 2/1",
+                "name": "Паркомат №85"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.16267,
+                    71.420175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Желтоксан, 16",
+                "name": "Паркомат №86"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.167633,
+                    71.41619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Абая, 25",
+                "name": "Паркомат №87"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.166864,
+                    71.416088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Абая, 27",
+                "name": "Паркомат №88"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.167343,
+                    71.417405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Сарыарка, 2",
+                "name": "Паркомат №89"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.158545,
+                    71.411505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Женис, 2",
+                "name": "Паркомат №90"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.160664,
+                    71.41521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Ирченко, 31",
+                "name": "Паркомат №91"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.161783,
+                    71.411894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Бигельдинова, 9",
+                "name": "Паркомат №92"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.165042,
+                    71.412056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Женис, 11",
+                "name": "Паркомат №93"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.165322,
+                    71.413862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Абая, 19",
+                "name": "Паркомат №94"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.166667,
+                    71.412176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Сарыарка, 15",
+                "name": "Паркомат №95"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.166961,
+                    71.408381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Сейфулина, 11",
+                "name": "Паркомат №96"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.169513,
+                    71.408323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Сарыарка, 29",
+                "name": "Паркомат №97"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.171576,
+                    71.407191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Женис, 25",
+                "name": "Паркомат №98"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.170353,
+                    71.412391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Женис, 26a",
+                "name": "Паркомат №99"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.172206,
+                    71.412331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Женис, 33",
+                "name": "Паркомат №100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.173549,
+                    71.411489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Богенбай батыра, 34",
+                "name": "Паркомат №100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.175402,
+                    71.409722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Туран, 37",
+                "name": "Паркомат №59"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.132302,
+                    71.407128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Кажымукана, 2",
+                "name": "Паркомат №102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.151581,
+                    71.458581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Петрова, 2",
+                "name": "Паркомат №103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.151901,
+                    71.461129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Кажымукана, 8",
+                "name": "Паркомат №104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.153169,
+                    71.464031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Кажымукана, 12а",
+                "name": "Паркомат №105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.154064,
+                    71.46769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Кажымукана, 18",
+                "name": "Паркомат №106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.155383,
+                    71.472116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Жумабаева, 1",
+                "name": "Паркомат №107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.155625,
+                    71.477748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Жумабаева, 16",
+                "name": "Паркомат №108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.152045,
+                    71.481412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Куйши Дина, 28",
+                "name": "Паркомат №109"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.148606,
+                    71.482968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Куйши Дина, 25/1",
+                "name": "Паркомат №110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.148798,
+                    71.480173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Жирентаева, 4",
+                "name": "Паркомат №111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.147667,
+                    71.47593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Петрова, 19а",
+                "name": "Паркомат №112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.150046,
+                    71.473854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Петрова, 24б",
+                "name": "Паркомат №113"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.146944,
+                    71.473666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Жирентаева, 15а",
+                "name": "Паркомат №114"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.152913,
+                    71.47395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Жирентаева, 20",
+                "name": "Паркомат №115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.154323,
+                    71.474277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Петрова, 12",
+                "name": "Паркомат №116"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.14901,
+                    71.463661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Петрова, 20",
+                "name": "Паркомат №117"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.148949,
+                    71.468983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Петрова, 24в",
+                "name": "Паркомат №118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.14896,
+                    71.47468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Куйши Дина, 6",
+                "name": "Паркомат №119"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.145958,
+                    71.465845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Майлина, 7",
+                "name": "Паркомат №120"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.14339,
+                    71.468441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Майлина, 14",
+                "name": "Паркомат №121"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.14442,
+                    71.472947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Сатпаева, 25",
+                "name": "Паркомат №122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.141441,
+                    71.475458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Момышулы, 14",
+                "name": "Паркомат №123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.140745,
+                    71.482238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Момышулы, 27",
+                "name": "Паркомат №124"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.141536,
+                    71.482775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Сатпаева, 16",
+                "name": "Паркомат №125"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.143834,
+                    71.47446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Ташенов, 24а",
+                "name": "Паркомат №126"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.153394,
+                    71.450154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Куйши Дина, 1",
+                "name": "Паркомат №127"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.14616,
+                    71.461317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Тауелсыздык, 10",
+                "name": "Паркомат №128"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.148371,
+                    71.458704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Пушкина, 10/1",
+                "name": "Паркомат №129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.159313,
+                    71.465882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Пушкина, 9",
+                "name": "Паркомат №130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.157119,
+                    71.458216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Майлина, 23",
+                "name": "Паркомат №131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.14652,
+                    71.479556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Туран, 24",
+                "name": "Паркомат №60"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.137652,
+                    71.409956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Дукенулы, 36",
+                "name": "Паркомат №132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.1805,
+                    71.433797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Богенбай батыра, 56",
+                "name": "Паркомат №133"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.177463,
+                    71.428996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Сейфуллина, 38",
+                "name": "Паркомат №134"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.171547,
+                    71.428492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "пр. Богенбай батыра, 62",
+                "name": "Паркомат №135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.177248,
+                    71.434591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Валиханова, 23/1",
+                "name": "Паркомат №136"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.174978,
+                    71.435267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "parkomats",
+                "address": "ул. Сейфуллина, 47а",
+                "name": "Паркомат №137"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.17333,
+                    71.4356
+                ]
+            }
+        }
+    ]
+}

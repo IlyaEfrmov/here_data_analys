@@ -36,11 +36,11 @@ def get_data (url=None):
 
     return updated_location_data
 
-def save_data (data=None):
+def save_data (name, data=None):
     if data is None:
         return False
 
-    with open('gj.geojson', 'w', encoding='utf-8') as file:
+    with open(name + '.geojson', 'w', encoding='utf-8') as file:
         geojson.dump(data, file, ensure_ascii=False, indent=4)
         return True
     
@@ -75,7 +75,7 @@ if __name__ == "__main__":
     geojson_data = to_geojson(data)
     
     if geojson_data:
-        result = save_data(geojson_data)
+        result = save_data("data", geojson_data)
         if result:
             print("Data successfully saved")
         else:

@@ -22,6 +22,7 @@ def get_data (url=None):
         
         if script_content is not None and "var shops =" in script_content:
             match = re.search(r"var shops = \[(.+)\]", str(script_content))
+
             data = json.loads(match.group(0).split('=')[1])
 
             return data

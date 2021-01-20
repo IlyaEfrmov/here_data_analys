@@ -1,0 +1,1535 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Д.Кунаева, 4",
+                "name": "Терминал Касса24 (Бизнес центр)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.130795,
+                    71.419314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Д.Кунаева, 4",
+                "name": "Терминал Касса24 (Бизнес центр)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.131764,
+                    71.420059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Д.Кунаева, 6",
+                "name": "Терминал Касса24 (Бизнес центр)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.131407,
+                    71.421298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Д.Кунаева, 10",
+                "name": "Терминал Касса24 (Бизнес центр)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.130929,
+                    71.423997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Д.Кунаева, 12/2",
+                "name": "Терминал Касса24 (Продуктовый магазин)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.129805,
+                    71.425681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Д.Кунаева, 12/1",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.129559,
+                    71.427864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Д.Кунаева, 14Б",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.129155,
+                    71.433223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Мангилик ел, 8",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.128414,
+                    71.440122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Достык, 20",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.124428,
+                    71.436582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Достык, 18",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.124957,
+                    71.434028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Достык, 13",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.12727,
+                    71.432263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "бульвар Нуржол, Достык, 3",
+                "name": "Терминал Касса24 (Выставочный центр «Корме»)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.129209,
+                    71.419861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Д. Кунаева, 4",
+                "name": "Терминал Kaspi (БЦ \"Казмедиа Орталығы\", 1 этаж, южный вход, в зоне банкоматов)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.130273,
+                    71.422613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Д. Кунаева, 12/1",
+                "name": "Терминал Kaspi (уг. ул. Акмешит, ЖК \"Водно-Зеленый Бульвар\", аптека)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.129808,
+                    71.428669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Достык, 5",
+                "name": "Терминал Kaspi (Аптека)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.127734,
+                    71.421947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Мангилик Ел, 13",
+                "name": "Терминал Kaspi (Cтоловая \"Тайқазан\")"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.12626,
+                    71.437284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Д. Кунаева, 14/2",
+                "name": "Терминал Касса24 (Аптека)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.129078,
+                    71.437204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Д. Кунаева, 33",
+                "name": "Терминал Kaspi (БЦ \"Астаналық\", справа от главного входа, под лестницей)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.130801,
+                    71.434103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Достык, 12",
+                "name": "Терминал Kaspi (угол ул. Сауран)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.126199,
+                    71.425284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Достык, 9",
+                "name": "Терминал Касса24 (ТЦ \"Керуен\")"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.127361,
+                    71.424903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Сыганак, 15",
+                "name": "Терминал Касса24 (Офис)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.124826,
+                    71.422634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Сыганак, 25",
+                "name": "Терминал Касса24 (БЦ \"Ансар\", этаж 1)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.123499,
+                    71.431062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Сыганак, 29",
+                "name": "Терминал Касса24 (БЦ \"Евроцентр\")"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.122991,
+                    71.434361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Д. Кунаева, 35",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.130138,
+                    71.436405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Д. Кунаева, 35/1",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.130731,
+                    71.439189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Сарайшык, 38",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.132151,
+                    71.437011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Д. Кунаева, 31",
+                "name": "Терминал Касса24 (Министерство иностранных дел)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.131737,
+                    71.430831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Достык, 2",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.129061,
+                    71.408207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Достык, 12",
+                "name": "Терминал Касса24\n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.126337,
+                    71.425833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Достык, 11",
+                "name": "Терминал Касса24\n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.12729,
+                    71.427473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Сауран, 3-1, ВП 21",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.123626,
+                    71.421669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Сыганак, 10-1",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.123337,
+                    71.418868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Сауран, 3-1",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.122782,
+                    71.418556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Кабанбай батыра, 42-2",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.120706,
+                    71.416583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Сауран, 10 (АЗС)",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.1207,
+                    71.421484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "70 лет Октября, 4",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.119503,
+                    71.42345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Акмешит, 5",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.116958,
+                    71.423675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Акмешит, 7а",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.114867,
+                    71.422782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Акмешит, 7-1",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.1149,
+                    71.421744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Сауран, 14",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.115905,
+                    71.418718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Керей Жанибек хандар, 12/1",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.113876,
+                    71.41668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "просп. Кабанбай батыра, 46б",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.114981,
+                    71.412317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "просп.Кабанбай батыра, 48/1",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.113767,
+                    71.412537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "просп.Кабанбай батыра, 13",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.137329,
+                    71.415383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Достык, 2",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.12895,
+                    71.406872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Достык, 2",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.12895,
+                    71.406872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Достык, 2",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.12895,
+                    71.406872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "просп.Кабанбай батыра, 40",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.131654,
+                    71.414622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "просп.Кабанбай батыра, 32",
+                "name": "Касса24 Терминалы"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.130098,
+                    71.414665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Кунаева, 6",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.131297,
+                    71.421819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Сарайшик, 5А ВП1",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.13546,
+                    71.424713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Сыганак, 25 (Почтовое отделение)",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.122994,
+                    71.431091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Сыганак, 18/3",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.121942,
+                    71.430291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": " пр.Мангилик ел, 16/1 (больница)",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.118486,
+                    71.436676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Жубанова, 7",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.156942,
+                    71.455866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Кравцова, 9/1",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.156992,
+                    71.455854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Ташенова, 19 (хоз.магазин)",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.153154,
+                    71.448214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "пр. Тауелсиздик, 11/2",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.152125,
+                    71.450546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "пр.Тауелсиздик, 3/1",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.149789,
+                    71.45631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул. Амман (Шалкым), 14",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.148824,
+                    71.445365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул. Амман (Шалкым), 4",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.142524,
+                    71.445522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул. Амман (Шалкым), 6",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.143173,
+                    71.445499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Шарль де Голля, 1а (отель \"Монако\")",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.142122,
+                    71.448195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "пер.Саркырама, 4",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.143589,
+                    71.449744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Шарль де Голль, 3а",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.142059,
+                    71.450828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Бауржана Момышулы, 12",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.139624,
+                    71.478497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Бауржана Момышулы, 23 (продуктовый магазин)",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.140463,
+                    71.47831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Бауржана Момышулы, 2/6",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.135153,
+                    71.466751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Каныша Сатпаева, 21-3. ВП-3 Аптека",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.142552,
+                    71.474537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Каныша Сатпаева, 23/1 (ломбард)",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.14219,
+                    71.4747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Каныша Сатпаева, 14 (супермаркет)",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.145176,
+                    71.473948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Каныша Сатпаева, 13а (бизнес-центр)",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.147403,
+                    71.47104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул. Бейимбета Майлина, 35 (гостиница)",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.14834,
+                    71.485363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Петрова, 24а",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.147905,
+                    71.47354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Петрова, 24а",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.147468,
+                    71.473206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "Касса24 Терминалы, 24",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.14831,
+                    71.472171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Петрова, 24",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.14858,
+                    71.473183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Петрова, 24",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.1486,
+                    71.473371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Петрова, 24",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.148682,
+                    71.472158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Петрова, 18 (торговый центр)",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.148655,
+                    71.467818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул.Кажимукана Мунайтпасова, 4",
+                "name": "Терминал Касса24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.152209,
+                    71.461607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "пр. Республики, 4",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.157832,
+                    71.429849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "пр. Республики, 5",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.15934,
+                    71.428674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "пр. Республики, 16",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.16124,
+                    71.428873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул. Мухтара Ауэзова, 2",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.162536,
+                    71.425853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул. Мухтара Ауэзова, 13",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.167689,
+                    71.423814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "пр. Абая, 39",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.16852,
+                    71.425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул. Сакен Сейфуллин, 33",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.171746,
+                    71.426395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "пр. Республики, 34/1",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.17259,
+                    71.426046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "пр. Республики, 43",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.173582,
+                    71.424549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "пр. Республики, 45",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.174954,
+                    71.423932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул. Бейбитшилик, 37",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.177197,
+                    71.417661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "пр. Сарыарка, 31/1",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.173276,
+                    71.405838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "пр. Сарыарка, 17",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.168301,
+                    71.407769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "пр. Сарыарка, 24",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.16779,
+                    71.408751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "пр. Сарыарка, 8",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.161483,
+                    71.411251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул. Желтоксан, 6",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.162724,
+                    71.417854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "пр. Абая, 27",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.167326,
+                    71.416562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "пр. Абая, 27",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.167501,
+                    71.41779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул. Желтоксан, 23",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.171214,
+                    71.414561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "пр. Женис, 29",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.171678,
+                    71.411766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "terminals",
+                "address": "ул. Бейбитшилик, 25",
+                "name": "Терминал Касса 24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.17219,
+                    71.418675
+                ]
+            }
+        }
+    ]
+}
