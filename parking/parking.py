@@ -36,7 +36,7 @@ def to_geojson(data_frame, option):
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [row["location"]["coordinates"][1], row["location"]["coordinates"][0]]
+                "coordinates": [row["location"]["coordinates"][0], row["location"]["coordinates"][1]]
             }
         }
 
